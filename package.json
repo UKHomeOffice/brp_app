@@ -21,7 +21,7 @@
   "dependencies": {
     "churchill": "0.1.0",
     "express": "^4.12.4",
-    "hof": "^13.2.2",
+    "hof": "^16.0.0",
     "hof-build": "^1.3.4",
     "hof-component-date": "^1.4.0",
     "hof-model": "^3.1.2",
@@ -29,7 +29,7 @@
     "hof-template-mixins": "4.2.0",
     "hogan.js": "^3.0.2",
     "hot-shots": "^5.9.0",
-    "i18n-future": "^1.1.0",
+    "i18n-future": "^2.0.0",
     "jquery": "^3.3.1",
     "moment": "^2.10.3",
     "moment-business": "^2.0.0",
@@ -40,7 +40,7 @@
     "typeahead-aria": "^1.0.1",
     "underscore": "^1.8.3",
     "winston": "^1.0.1",
-    "snyk": "^1.97.0"
+    "snyk": "^1.124.1"
   },
   "devDependencies": {
     "chai": "^3.0.0",
