@@ -37,7 +37,7 @@
     "nodemailer-ses-transport": "^1.5.0",
     "nodemailer-smtp-transport": "^2.7.2",
     "nodemailer-stub-transport": "^1.1.0",
-    "snyk": "^1.97.0",
+    "snyk": "^1.465.0",
     "typeahead-aria": "^1.0.1",
     "underscore": "^1.8.3",
     "winston": "^1.0.1"
