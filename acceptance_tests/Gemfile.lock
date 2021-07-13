@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     backports (3.21.0)
     builder (3.2.4)
@@ -39,6 +39,8 @@ GEM
     multi_json (1.15.0)
     multi_test (0.1.2)
     nokogiri (1.11.6-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.11.6-x86_64-linux)
       racc (~> 1.4)
     phantomjs (2.1.1.0)
     phantomjs-binaries (2.1.1.1)
@@ -90,6 +92,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-18
+  x86_64-linux
 
 DEPENDENCIES
   capybara
